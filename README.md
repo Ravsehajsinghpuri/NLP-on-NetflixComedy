@@ -1,3 +1,3 @@
 # NLP-on-NetflixComedy
-This repository contains a fun project using Natural Language processing to understand stand-up comedy shows on Netflix.
+This repository contains a project using Natural Language processing to understand stand-up comedy shows on Netflix.
 This project started from a thought which came to my mind when i first completely watched a standup comedy show on Netflix last week by Ali Wong and i absolutely loved it. I wanted to get some insights about the factors which make Ali Wong's routines different from other standup comedians. Secondly, I was also curious about the reason why i found this show very interesting given my past history of avoiding standup comedy shows. The best tool which i had was natural language processing (NLP) which helped me satisfy my thought. Let us have a look at how i performed a complete Exploratory Data Analysis(EDA).
